@@ -1,4 +1,3 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -15,12 +14,11 @@
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
-
-
-### Connect with Me :
+### Connect with Me:
 
 <a href="https://linkedin.com/in/BahaaMontaser" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Montaser0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/https://t.me/bebo18044" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Montaser-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -30,4 +28,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
+### About Me
+Hello, I am Bahaa Montaser, a law student at Helwan University. I worked for two years as a graphic designer in advertising and social media designs, gaining experience through courses. When I started working, I took courses in e-marketing and learned how to shop for a personal brand. I am always evolving and doing things the right way, not just designing. I am practicing English and aim to be fluent. Currently, I am learning programming in web design and problem-solving, aspiring to become a programmer. My hobbies include reading, playing war games such as Call of Duty War Zone, and my favorite books are "The Seven Habits of Highly Effective Teens" and "Atomic Habits".
