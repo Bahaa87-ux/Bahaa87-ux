@@ -17,9 +17,11 @@
 ### Connect with Me:
 
 
-<a href="https://t.me/https://t.me/bebo18044" target="_blank"><img src="https://img.shields.io/badge/-Bahaa%20Montaser-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/bahaa-montaser-018742303/"  target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Montaser-28a745?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/https://t.me/bebo18044" target="_blank"><img src="https://img.shields.io/badge/-Telegram20-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bahaa-montaser-018742303/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn%20-28a745?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="[https://www.linkedin.com/in/bahaa-montaser-018742303/](https://www.facebook.com/profile.php?id=61555876645741)"  target="_blank"><img src="https://img.shields.io/badge/Facebook%20-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/bahaa-montaser-018742303/](https://www.instagram.com/bhaa_bebo4/)"  target="_blank"><img src="https://img.shields.io/badge/-Instagram%20-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
 
 
 ### 🛠 &nbsp;Tech Stack
